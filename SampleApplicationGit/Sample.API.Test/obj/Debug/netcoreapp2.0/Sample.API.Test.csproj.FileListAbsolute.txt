@@ -1,0 +1,32 @@
+c:\users\sandipan\documents\visual studio 2017\Projects\SampleApplication\Sample.API.Test\bin\Debug\netcoreapp2.0\Sample.API.Test.deps.json
+c:\users\sandipan\documents\visual studio 2017\Projects\SampleApplication\Sample.API.Test\bin\Debug\netcoreapp2.0\Sample.API.Test.dll
+c:\users\sandipan\documents\visual studio 2017\Projects\SampleApplication\Sample.API.Test\obj\Debug\netcoreapp2.0\Sample.API.Test.csprojResolveAssemblyReference.cache
+c:\users\sandipan\documents\visual studio 2017\Projects\SampleApplication\Sample.API.Test\obj\Debug\netcoreapp2.0\Sample.API.Test.csproj.CoreCompileInputs.cache
+c:\users\sandipan\documents\visual studio 2017\Projects\SampleApplication\Sample.API.Test\obj\Debug\netcoreapp2.0\Sample.API.Test.AssemblyInfoInputs.cache
+c:\users\sandipan\documents\visual studio 2017\Projects\SampleApplication\Sample.API.Test\obj\Debug\netcoreapp2.0\Sample.API.Test.AssemblyInfo.cs
+C:\Users\sandipan\Documents\visual studio 2017\Projects\SampleApplication\Sample.API.Test\bin\Debug\netcoreapp2.0\Sample.API.Test.runtimeconfig.json
+C:\Users\sandipan\Documents\visual studio 2017\Projects\SampleApplication\Sample.API.Test\bin\Debug\netcoreapp2.0\Sample.API.Test.runtimeconfig.dev.json
+C:\Users\sandipan\Documents\visual studio 2017\Projects\SampleApplication\Sample.API.Test\bin\Debug\netcoreapp2.0\Sample.API.Test.pdb
+C:\Users\sandipan\Documents\visual studio 2017\Projects\SampleApplication\Sample.API.Test\obj\Debug\netcoreapp2.0\Sample.API.Test.dll
+C:\Users\sandipan\Documents\visual studio 2017\Projects\SampleApplication\Sample.API.Test\obj\Debug\netcoreapp2.0\Sample.API.Test.pdb
+C:\Users\sandipan\Documents\Visual Studio 2017\Projects\SampleApplication\Sample.API.Test\bin\Debug\netcoreapp2.0\Sample.API.dll
+C:\Users\sandipan\Documents\Visual Studio 2017\Projects\SampleApplication\Sample.API.Test\bin\Debug\netcoreapp2.0\Sample.API.pdb
+C:\Users\sandipan\Documents\Visual Studio 2017\Projects\SampleApplication\Sample.API.Test\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\sandipan\Documents\Visual Studio 2017\Projects\SampleApplication\Sample.API.Test\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\sandipan\Documents\Visual Studio 2017\Projects\SampleApplication\Sample.API.Test\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\SampleApplication\Sample.API.Test\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\SampleApplication\Sample.API.Test\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\SampleApplication\Sample.API.Test\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\SampleApplication\Sample.API.Test\bin\Debug\netcoreapp2.0\Sample.API.Test.deps.json
+D:\SampleApplication\Sample.API.Test\bin\Debug\netcoreapp2.0\Sample.API.Test.runtimeconfig.json
+D:\SampleApplication\Sample.API.Test\bin\Debug\netcoreapp2.0\Sample.API.Test.runtimeconfig.dev.json
+D:\SampleApplication\Sample.API.Test\bin\Debug\netcoreapp2.0\Sample.API.Test.dll
+D:\SampleApplication\Sample.API.Test\bin\Debug\netcoreapp2.0\Sample.API.Test.pdb
+D:\SampleApplication\Sample.API.Test\bin\Debug\netcoreapp2.0\Sample.API.dll
+D:\SampleApplication\Sample.API.Test\bin\Debug\netcoreapp2.0\Sample.API.pdb
+D:\SampleApplication\Sample.API.Test\obj\Debug\netcoreapp2.0\Sample.API.Test.csprojResolveAssemblyReference.cache
+D:\SampleApplication\Sample.API.Test\obj\Debug\netcoreapp2.0\Sample.API.Test.csproj.CoreCompileInputs.cache
+D:\SampleApplication\Sample.API.Test\obj\Debug\netcoreapp2.0\Sample.API.Test.AssemblyInfoInputs.cache
+D:\SampleApplication\Sample.API.Test\obj\Debug\netcoreapp2.0\Sample.API.Test.AssemblyInfo.cs
+D:\SampleApplication\Sample.API.Test\obj\Debug\netcoreapp2.0\Sample.API.Test.dll
+D:\SampleApplication\Sample.API.Test\obj\Debug\netcoreapp2.0\Sample.API.Test.pdb
